@@ -1,0 +1,26 @@
+{
+  "rows": 255347,
+  "duplicate_rows": 0,
+  "missing_values": {
+    "LoanID": 0,
+    "Age": 0,
+    "Income": 0,
+    "LoanAmount": 0,
+    "CreditScore": 0,
+    "MonthsEmployed": 0,
+    "NumCreditLines": 0,
+    "InterestRate": 0,
+    "LoanTerm": 0,
+    "DTIRatio": 0,
+    "Education": 0,
+    "EmploymentType": 0,
+    "MaritalStatus": 0,
+    "HasMortgage": 0,
+    "HasDependents": 0,
+    "LoanPurpose": 0,
+    "HasCoSigner": 0,
+    "Default": 0
+  },
+  "negative_income": 0,
+  "target_default_rate": 0.11612824901017048
+}
